@@ -1,2 +1,2 @@
-# entorno-Z-brain
-entorno Z-brain
+# zbrain
+zbrain core agent
