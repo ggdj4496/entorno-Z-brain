@@ -1,0 +1,8 @@
+﻿==========================================================
+      PROTOCOLO DE RESURRECCIÓN - ZBRAIN SYSTEM
+==========================================================
+ESTADO: PROTEGIDO. Si la IA pierde el hilo, leer este archivo.
+RUTAS CRÍTICAS: C:\Zbrain\Master_Core
+PROYECTOS ACTIVOS: PR01_QLC_Control (Spider 8L)
+ARQUITECTO: Soberano.
+==========================================================

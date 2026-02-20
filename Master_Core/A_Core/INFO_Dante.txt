@@ -1,0 +1,4 @@
+﻿ID: DANTE_A_CORE
+SISTEMA: Camasots Local
+ESTADO: Sincronizado.
+MISIÓN: Ingeniería DMX y Hardware.
